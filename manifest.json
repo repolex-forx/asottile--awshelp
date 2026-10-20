@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "asottile",
+  "repo": "awshelp",
+  "versions": [
+    {
+      "commit": "313d3328e4fe42f72e02d9e14509e13e2250101d",
+      "parsed_at": "2026-10-20T19:39:49.909785+00:00",
+      "filetree": "filetree/313d3328e4fe42f72e02d9e14509e13e2250101d.nq.gz",
+      "blobs": [
+        "blob/d1286c472814c639a6353f0cae1c481d8814d9ed.nq.gz",
+        "blob/b1447c3015af9511f2dee402ca4b5ad62adf5dce.nq.gz",
+        "blob/e9d3629381a29dccc19e3215f7694ac73a6c83fd.nq.gz",
+        "blob/fe3221ff240856d3c896036970b7768a23033c7f.nq.gz",
+        "blob/b6c2693071afdfc05b396e4c087145783ad3d0d7.nq.gz",
+        "blob/3d93aefb2da505dba9c0114404cfaaeee5ad0d3f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
