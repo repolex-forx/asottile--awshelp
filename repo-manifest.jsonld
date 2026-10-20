@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/awshelp/commit/313d3328e4fe42f72e02d9e14509e13e2250101d",
       "git:hexsha": "313d3328e4fe42f72e02d9e14509e13e2250101d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/asottile/awshelp/commit/209bf04173f3b3973697f2df70f68766f0ead469",

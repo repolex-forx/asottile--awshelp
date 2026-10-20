@@ -1,0 +1,7 @@
+[2026-10-20T19:41:04Z] === AST ITERATION 1 START | repo=asottile/awshelp sha=313d3328 ===
+[2026-10-20T19:41:04Z] [iter=1] PHASE START: ast repo=asottile/awshelp sha=313d3328
+[2026-10-20T19:41:04Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T19:41:05Z] [iter=1] AST chunks built count=1 triples=1454
+[2026-10-20T19:41:05Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/313d3328e4fe42f72e02d9e14509e13e2250101d/.complete
+[2026-10-20T19:41:05Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-10-20T19:41:05Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
